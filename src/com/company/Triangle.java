@@ -2,9 +2,7 @@ package com.company;
 
 import java.awt.*;
 
-/**
- * Created by fravia on 11.06.15.
- */
+
 public class Triangle {
     protected int hight;
     protected int width;
